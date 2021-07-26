@@ -1,0 +1,4 @@
+﻿interface IATKDirection
+{
+    void AtkDirection();
+}
